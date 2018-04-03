@@ -11,8 +11,8 @@ The Midi Pattern Sequencer is a built in AudioPluginInstance which can send a pa
 
 This is an ongoing project and more features will be added.
 
-# How to run on MAC:
+### How to run on MAC:
 
-1. Download JUCE from https://shop.juce.com/get-juce
+1. Download JUCE from https://shop.juce.com/get-juce or https://github.com/WeAreROLI/JUCE
 2. open the file juce-vstpluginhost-withextras/AudioPluginHost.jucer and set the modules folder to the modules folder in the main JUCE folder.
 3. open with XCode and build.
