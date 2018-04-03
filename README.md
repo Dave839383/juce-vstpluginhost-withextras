@@ -1,5 +1,5 @@
 # juce-vstpluginhost-withextras
-The aim of this project is to add new features to the JUCE Audio Plugin Host.  The JUCE Audio Plugin Host is used for testing VST/AU Plugins built using the JUCE C++ Library.
+The aim of this project is to add new features to the JUCE Audio Plugin Host.  The JUCE Audio Plugin Host is used for testing VST/AU Plugins built using the JUCE C++ Library, and these features will allow the user to test with a working AudioPlayHead before moving the plugin to Logic/Pro Tools etc.
 
 At the moment Playback controls (ie. play/stop buttons, bpm control) and a Midi Pattern Sequencer have been added.  
 
